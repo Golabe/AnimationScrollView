@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="AnimationContentView">
+        <!--颜色渐变开始-->
         <attr name="scroller_from_color" format="color" />
+
+        <!--颜色渐变结束-->
         <attr name="scroller_to_color" format="color" />
+        <!--是否开启透明-->
         <attr name="scroller_alpha" format="boolean" />
+        <!--缩放X-->
         <attr name="scroller_scaleX" format="boolean" />
+        <!--缩放Y-->
         <attr name="scroller_scaleY" format="boolean" />
+
+        <!--贝斯模糊  scroller_blur 0-25F-->
         <attr name="scroller_blur" format="integer"/>
+        <!--模糊图片资源-->
         <attr name="scroller_blur_res" format="reference"/>
 
-
+        <!--从哪里开始移动-->
         <attr name="scroller_translation" format="flags" >
+            <!--从上开始-->
             <flag name="fromTop" value="0x01" />
+            <!--从下开始-->
             <flag name="fromBottom" value="0x02" />
+            <!--从左开始-->
             <flag name="fromLeft" value="0x04" />
+            <!--从右开始-->
             <flag name="fromRight" value="0x08" />
         </attr>
     </declare-styleable>

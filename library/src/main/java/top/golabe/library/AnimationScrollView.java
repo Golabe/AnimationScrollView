@@ -8,7 +8,6 @@ import android.util.AttributeSet;
 import android.view.View;
 
 public class AnimationScrollView extends NestedScrollView {
-    private static final String TAG = "AnimationScrollView";
     private AnimationContentView mContent;
 
     public AnimationScrollView(@NonNull Context context, @Nullable AttributeSet attrs) {
