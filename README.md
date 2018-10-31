@@ -1,8 +1,8 @@
 # 滚动动画 AnimationScrollView
 
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a1.png?raw=true "width:200px" "height:250px")
+![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a1.png?raw=true "width:200" "height:250")
 
-
+<img src="https://github.com/Golabe/AnimationScrollView/blob/master/images/a1.png?raw=true" width = "200" height = "260" div align=right />
 
 ## 使用
 
