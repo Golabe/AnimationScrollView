@@ -1,15 +1,6 @@
 # 滚动动画 AnimationScrollView
 
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a1.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a2.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a3.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a4.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a5.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a6.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a7.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a8.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a9.png?raw=true)
-![](https://github.com/Golabe/AnimationScrollView/blob/master/images/a10.png?raw=true)
+![](https://github.com/Golabe/AnimationScrollView/blob/master/images/demonstration.gif?raw=true)
 
 
 
